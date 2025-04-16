@@ -65,7 +65,7 @@ iOS の UI/UX 設計・アーキテクチャ設計から、大規模開発での
 **新規開発や機能追加、保守運用などで iOS エンジニアをお探しでしたら、ぜひお気軽にご相談ください。**  
 
 - Twitter: [@alligator_tama](https://twitter.com/alligator_tama)  
-- LinkedIn: [YourLinkedInPage](https://www.linkedin.com/in/%E4%BF%A1%E6%82%9F-%E7%8E%89%E5%9F%8E-656a1350/)
+- LinkedIn: [Shingo Tamaki](https://www.linkedin.com/in/%E4%BF%A1%E6%82%9F-%E7%8E%89%E5%9F%8E-656a1350/)
 
 ご連絡お待ちしております！
 
